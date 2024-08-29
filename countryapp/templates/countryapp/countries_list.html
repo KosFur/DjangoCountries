@@ -1,14 +1,46 @@
 {% extends 'countryapp/base.html' %}
 
 {% block title %}
-    List of Countries
+    Список стран
 {% endblock %}
 
 {% block content %}
-    <h1>List of Countries</h1>
-    <ul>
-    {% for country in countries %}
-        <li><a href="{% url 'country_detail' country_name=country %}">{{ country }}</a></li>
-    {% endfor %}
-    </ul>
+    <div class="container">
+        <h1>Список стран</h1>
+
+        <div>
+            {% for letter in "ABCDEFGHIJKLMNOPQRSTUVWXYZ" %}
+              <a href="{% url 'countries_by_letter' letter=letter %}">{{ letter }}</a>
+            {% endfor %}
+        </div>
+
+        <hr>
+
+        <ol>
+            {% for country in page_obj %}
+                <li><a href="{% url 'country_detail' country_name=country %}">{{ country }}</a></li>
+            {% empty %}
+                <li>Нет стран на выбранную букву.</li>
+            {% endfor %}
+        </ol>
+
+        
+        <div class="pagination">
+            <span class="step-links">
+                {% if page_obj.has_previous %}
+                    <a href="?page=1{% if letter %}&letter={{ letter }}{% endif %}">&laquo; Первая</a>
+                    <a href="?page={{ page_obj.previous_page_number }}{% if letter %}&letter={{ letter }}{% endif %}">Предыдущая</a>
+                {% endif %}
+
+                <span class="current">
+                    Страница {{ page_obj.number }} из {{ page_obj.paginator.num_pages }}.
+                </span>
+
+                {% if page_obj.has_next %}
+                    <a href="?page={{ page_obj.next_page_number }}{% if letter %}&letter={{ letter }}{% endif %}">Следующая</a>
+                    <a href="?page={{ page_obj.paginator.num_pages }}{% if letter %}&letter={{ letter }}{% endif %}">Последняя &raquo;</a>
+                {% endif %}
+            </span>
+        </div>
+    </div>
 {% endblock %}

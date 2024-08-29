@@ -1,12 +1,12 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Welcome</title>
-</head>
-<body>
-    <h1>Добро пожаловать на страницу моего проекта </h1>
-    <p>Это начальная страница</p>
-    <a href="{% url 'countries_list' %}">Посмотреть список стран</a>
-</body>
-</body>
-</html>
+{% extends 'countryapp/base.html' %}
+
+{% block title %}Добро пожаловать{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1>Добро пожаловать на сайт о странах!</h1>
+    <a href="{% url 'countries_list' %}">Список стран</a><br>
+    <a href="{% url 'languages_list' %}">Список языков</a>  <!-- Новая ссылка на языки -->
+</div>
+{% endblock %}
+

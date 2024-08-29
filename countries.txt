@@ -1,3 +1,184 @@
-US, United States, Washington, English;Spanish
+AF, Afghanistan, Kabul, Pashto;Dari
+AL, Albania, Tirana, Albanian
+DZ, Algeria, Algiers, Arabic;Tamazight
+AD, Andorra, Andorra la Vella, Catalan
+AO, Angola, Luanda, Portuguese
+AG, Antigua and Barbuda, St. John's, English
+AR, Argentina, Buenos Aires, Spanish
+AM, Armenia, Yerevan, Armenian
+AU, Australia, Canberra, English
+AT, Austria, Vienna, German
+AZ, Azerbaijan, Baku, Azerbaijani
+BS, Bahamas, Nassau, English
+BH, Bahrain, Manama, Arabic
+BD, Bangladesh, Dhaka, Bengali
+BB, Barbados, Bridgetown, English
+BY, Belarus, Minsk, Belarusian;Russian
+BE, Belgium, Brussels, Dutch;French;German
+BZ, Belize, Belmopan, English
+BJ, Benin, Porto-Novo, French
+BT, Bhutan, Thimphu, Dzongkha
+BO, Bolivia, Sucre, Spanish;Quechua;Aymara
+BA, Bosnia and Herzegovina, Sarajevo, Bosnian;Croatian;Serbian
+BW, Botswana, Gaborone, English;Setswana
+BR, Brazil, Brasília, Portuguese
+BN, Brunei, Bandar Seri Begawan, Malay
+BG, Bulgaria, Sofia, Bulgarian
+BF, Burkina Faso, Ouagadougou, French
+BI, Burundi, Gitega, Kirundi;French
+KH, Cambodia, Phnom Penh, Khmer
+CM, Cameroon, Yaoundé, French;English
 CA, Canada, Ottawa, English;French
-GB, United Kingdom, London, English
+CV, Cape Verde, Praia, Portuguese
+CF, Central African Republic, Bangui, Sango;French
+TD, Chad, N'Djamena, French;Arabic
+CL, Chile, Santiago, Spanish
+CN, China, Beijing, Mandarin
+CO, Colombia, Bogotá, Spanish
+KM, Comoros, Moroni, Arabic;French
+CG, Congo (Brazzaville), Brazzaville, French
+CD, Congo (Kinshasa), Kinshasa, French
+CR, Costa Rica, San José, Spanish
+CI, Côte d'Ivoire, Yamoussoukro, French
+HR, Croatia, Zagreb, Croatian
+CU, Cuba, Havana, Spanish
+CY, Cyprus, Nicosia, Greek;Turkish
+CZ, Czech Republic, Prague, Czech
+DK, Denmark, Copenhagen, Danish
+DJ, Djibouti, Djibouti, French;Arabic
+DM, Dominica, Roseau, English
+DO, Dominican Republic, Santo Domingo, Spanish
+EC, Ecuador, Quito, Spanish
+EG, Egypt, Cairo, Arabic
+SV, El Salvador, San Salvador, Spanish
+GQ, Equatorial Guinea, Malabo, Spanish;French;Portuguese
+ER, Eritrea, Asmara, Tigrinya;Arabic;English
+EE, Estonia, Tallinn, Estonian
+SZ, Eswatini, Mbabane, Swazi;English
+ET, Ethiopia, Addis Ababa, Amharic
+FJ, Fiji, Suva, English;Fijian
+FI, Finland, Helsinki, Finnish;Swedish
+FR, France, Paris, French
+GA, Gabon, Libreville, French
+GM, Gambia, Banjul, English
+GE, Georgia, Tbilisi, Georgian
+DE, Germany, Berlin, German
+GH, Ghana, Accra, English
+GR, Greece, Athens, Greek
+GD, Grenada, St. George's, English
+GT, Guatemala, Guatemala City, Spanish
+GN, Guinea, Conakry, French
+GW, Guinea-Bissau, Bissau, Portuguese
+GY, Guyana, Georgetown, English
+HT, Haiti, Port-au-Prince, French;Haitian Creole
+HN, Honduras, Tegucigalpa, Spanish
+HU, Hungary, Budapest, Hungarian
+IS, Iceland, Reykjavik, Icelandic
+IN, India, New Delhi, Hindi;English
+ID, Indonesia, Jakarta, Indonesian
+IR, Iran, Tehran, Persian
+IQ, Iraq, Baghdad, Arabic;Kurdish
+IE, Ireland, Dublin, Irish;English
+IL, Israel, Jerusalem, Hebrew;Arabic
+IT, Italy, Rome, Italian
+JM, Jamaica, Kingston, English
+JP, Japan, Tokyo, Japanese
+JO, Jordan, Amman, Arabic
+KZ, Kazakhstan, Nur-Sultan, Kazakh;Russian
+KE, Kenya, Nairobi, English;Swahili
+KI, Kiribati, South Tarawa, English
+KP, North Korea, Pyongyang, Korean
+KR, South Korea, Seoul, Korean
+KW, Kuwait, Kuwait City, Arabic
+KG, Kyrgyzstan, Bishkek, Kyrgyz;Russian
+LA, Laos, Vientiane, Lao
+LV, Latvia, Riga, Latvian
+LB, Lebanon, Beirut, Arabic
+LS, Lesotho, Maseru, English;Sotho
+LR, Liberia, Monrovia, English
+LY, Libya, Tripoli, Arabic
+LI, Liechtenstein, Vaduz, German
+LT, Lithuania, Vilnius, Lithuanian
+LU, Luxembourg, Luxembourg, Luxembourgish;French;German
+MG, Madagascar, Antananarivo, Malagasy;French
+MW, Malawi, Lilongwe, English;Chichewa
+MY, Malaysia, Kuala Lumpur, Malay
+MV, Maldives, Malé, Dhivehi
+ML, Mali, Bamako, French
+MT, Malta, Valletta, Maltese;English
+MH, Marshall Islands, Majuro, English;Marshallese
+MR, Mauritania, Nouakchott, Arabic
+MU, Mauritius, Port Louis, English
+MX, Mexico, Mexico City, Spanish
+FM, Micronesia, Palikir, English
+MD, Moldova, Chișinău, Romanian
+MC, Monaco, Monaco, French
+MN, Mongolia, Ulaanbaatar, Mongolian
+ME, Montenegro, Podgorica, Montenegrin
+MA, Morocco, Rabat, Arabic;Tamazight
+MZ, Mozambique, Maputo, Portuguese
+MM, Myanmar, Naypyidaw, Burmese
+NA, Namibia, Windhoek, English
+NR, Nauru, Yaren, Nauruan;English
+NP, Nepal, Kathmandu, Nepali
+NL, Netherlands, Amsterdam, Dutch
+NZ, New Zealand, Wellington, English;Māori
+NI, Nicaragua, Managua, Spanish
+NE, Niger, Niamey, French
+NG, Nigeria, Abuja, English
+NO, Norway, Oslo, Norwegian
+OM, Oman, Muscat, Arabic
+PK, Pakistan, Islamabad, Urdu;English
+PW, Palau, Ngerulmud, English;Palauan
+PS, Palestine, Ramallah, Arabic
+PA, Panama, Panama City, Spanish
+PG, Papua New Guinea, Port Moresby, English;Tok Pisin;Hiri Motu
+PY, Paraguay, Asunción, Spanish;Guaraní
+PE, Peru, Lima, Spanish;Quechua
+PH, Philippines, Manila, Filipino;English
+PL, Poland, Warsaw, Polish
+PT, Portugal, Lisbon, Portuguese
+QA, Qatar, Doha, Arabic
+RO, Romania, Bucharest, Romanian
+RU, Russia, Moscow, Russian
+RW, Rwanda, Kigali, Kinyarwanda;French;English
+KN, Saint Kitts and Nevis, Basseterre, English
+LC, Saint Lucia, Castries, English
+VC, Saint Vincent and the Grenadines, Kingstown, English
+WS, Samoa, Apia, Samoan;English
+SM, San Marino, San Marino, Italian
+ST, São Tomé and Príncipe, São Tomé, Portuguese
+SA, Saudi Arabia, Riyadh, Arabic
+SN, Senegal, Dakar, French
+RS, Serbia, Belgrade, Serbian
+SC, Seychelles, Victoria, French;English;Seychellois Creole
+SL, Sierra Leone, Freetown, English
+SG, Singapore, Singapore, English;Malay;Mandarin;Tamil
+SK, Slovakia, Bratislava, Slovak
+SI, Slovenia, Ljubljana, Slovenian
+SB, Solomon Islands, Honiara, English
+SO, Somalia, Mogadishu, Somali;Arabic
+ZA, South Africa, Pretoria, Afrikaans;English;Zulu;Xhosa
+SS, South Sudan, Juba, English
+ES, Spain, Madrid, Spanish
+LK, Sri Lanka, Sri Jayawardenepura Kotte, Sinhala;Tamil
+SD, Sudan, Khartoum, Arabic;English
+SR, Suriname, Paramaribo, Dutch
+SE, Sweden, Stockholm, Swedish
+CH, Switzerland, Bern, German;French;Italian;Romansh
+SY, Syria, Damascus, Arabic
+TW, Taiwan, Taipei, Mandarin
+TJ, Tajikistan, Dushanbe, Tajik;Russian
+TZ, Tanzania, Dodoma, Swahili;English
+TH, Thailand, Bangkok, Thai
+TL, Timor-Leste, Dili, Tetum;Portuguese
+TG, Togo, Lomé, French
+TO, Tonga, Nuku'alofa, Tongan;English
+TT, Trinidad and Tobago, Port of Spain, English
+TN, Tunisia, Tunis, Arabic
+TR, Turkey, Ankara, Turkish
+TM, Turkmenistan, Ashgabat, Turkmen
+TV, Tuvalu, Funafuti, Tuvaluan;English
+UG, Uganda, Kampala, English;Swahili
+UA, Ukraine, Kyiv, Ukrainian
+AE, United Arab Emirates, Abu Dhabi, Arabic
