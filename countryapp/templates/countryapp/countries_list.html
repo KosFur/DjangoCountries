@@ -1,0 +1,14 @@
+{% extends 'countryapp/base.html' %}
+
+{% block title %}
+    List of Countries
+{% endblock %}
+
+{% block content %}
+    <h1>List of Countries</h1>
+    <ul>
+    {% for country in countries %}
+        <li><a href="{% url 'country_detail' country_name=country %}">{{ country }}</a></li>
+    {% endfor %}
+    </ul>
+{% endblock %}

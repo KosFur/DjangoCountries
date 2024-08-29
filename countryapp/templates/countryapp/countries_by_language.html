@@ -1,0 +1,28 @@
+{% extends 'countryapp/base.html' %}
+{% load static %}
+
+{% block title %}
+    Страны, говорящие на {{ language }} - DjangoCountries
+{% endblock %}
+
+{% block content %}
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1>Страны, говорящие на {{ language }}</h1>
+                <hr>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col">
+                <ul>
+                    {% for country in countries %}
+                        <li><a href="{% url 'country_detail' country %}">{{ country }}</a></li>
+                    {% endfor %}
+                </ul>
+                <hr>
+            </div>
+        </div>
+    </div>
+{% endblock %}

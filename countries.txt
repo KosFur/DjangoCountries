@@ -1,0 +1,3 @@
+US, United States, Washington, English;Spanish
+CA, Canada, Ottawa, English;French
+GB, United Kingdom, London, English
