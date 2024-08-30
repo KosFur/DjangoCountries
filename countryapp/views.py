@@ -1,6 +1,8 @@
 from django.shortcuts import render
 import string
 from django.core.paginator import Paginator
+from collections import defaultdict
+
 
 def welcome_page(request):
     return render(request, 'countryapp/welcome_page.html')
